@@ -58,7 +58,8 @@ Optional: SendGrid/SMTP for email notification
 
 ✅ Setup Instructions
 
-git clone https://github.com/yourusername/blood-bank-management.git
+git clone https://github.com/yeshwandhjaganathan/Blood-Bank-Management-System-using-python-and-django-.git
+
 cd blood-bank-management
 pip install -r requirements.txt
 python manage.py makemigrations
